@@ -71,6 +71,9 @@ class ColorPrimitive {
   /// neutral-gray-90 - #e0e0e0
   late final Color neutralGray90 = const Color.fromRGBO(224, 224, 224, 1.0);
 
+  /// neutral-gray-92 - #e6e6e6
+  late final Color neutralGray92 = const Color.fromRGBO(230, 230, 230, 1.0);
+
   /// neutral-gray-95 - #f2f2f2
   late final Color neutralGray95 = const Color.fromRGBO(242, 242, 242, 1.0);
 
