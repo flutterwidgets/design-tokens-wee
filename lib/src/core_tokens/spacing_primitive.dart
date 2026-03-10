@@ -35,6 +35,7 @@ class SpacingPrimitive {
   late final int spacing64 = 64;
   late final int spacing66 = 66;
   late final int spacing72 = 72;
+  late final int spacing78 = 78;
   late final int spacing80 = 80;
   late final int spacing84 = 84;
   late final int spacing90 = 90;

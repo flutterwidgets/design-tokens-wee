@@ -221,6 +221,9 @@ class ColorPrimitive {
   /// blue-gray-40 - #555b64
   late final Color blueGray40 = const Color.fromRGBO(85, 91, 100, 1.0);
 
+  /// blue-gray-42 - #575e66
+  late final Color blueGray42 = const Color.fromRGBO(87, 94, 102, 1.0);
+
   /// blue-gray-45 - #5d646d
   late final Color blueGray45 = const Color.fromRGBO(93, 100, 109, 1.0);
 
