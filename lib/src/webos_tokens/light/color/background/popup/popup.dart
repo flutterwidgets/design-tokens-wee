@@ -12,5 +12,5 @@ class Popup extends PopupBase {
   const Popup();
 
   @override
-  Color get defaultColor => ColorPrimitive.instance.neutralGray90;
+  Color get defaultColor => ColorPrimitive.instance.blueGray42;
 }
