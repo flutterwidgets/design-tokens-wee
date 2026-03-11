@@ -13,4 +13,6 @@ class Overlay extends OverlayBase {
 
   @override
   Color get defaultColor => ColorPrimitive.instance.coolGray90;
+  @override
+  Color get defaultColorWee => ColorPrimitive.instance.blueGray42;
 }

@@ -9,4 +9,5 @@ abstract class OverlayBase {
   const OverlayBase();
 
   Color get defaultColor;
+  Color get defaultColorWee;
 }
