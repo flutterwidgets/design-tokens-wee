@@ -14,7 +14,6 @@ abstract class SurfaceBase {
   OverlayBase get overlay;
   PopupBase get popup;
   Color get defaultColor;
-  Color get defaultColorWee;
   Color get defaultFocused;
   Color get defaultSelected;
   Color get defaultDisabledFocused;

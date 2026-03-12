@@ -18,9 +18,7 @@ class Surface extends SurfaceBase {
   @override
   Popup get popup => const Popup();
   @override
-  Color get defaultColor => ColorPrimitive.instance.coolGray30;
-  @override
-  Color get defaultColorWee => ColorPrimitive.instance.neutralGray92;
+  Color get defaultColor => ColorPrimitive.instance.neutralGray92;
   @override
   Color get defaultFocused => ColorPrimitive.instance.white;
   @override

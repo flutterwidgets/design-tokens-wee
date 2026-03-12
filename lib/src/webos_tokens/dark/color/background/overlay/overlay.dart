@@ -12,7 +12,5 @@ class Overlay extends OverlayBase {
   const Overlay();
 
   @override
-  Color get defaultColor => ColorPrimitive.instance.coolGray15;
-  @override
-  Color get defaultColorWee => ColorPrimitive.instance.blueGray42;
+  Color get defaultColor => ColorPrimitive.instance.blueGray42;
 }
