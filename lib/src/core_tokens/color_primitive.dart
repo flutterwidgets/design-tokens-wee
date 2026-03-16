@@ -221,6 +221,9 @@ class ColorPrimitive {
   /// blue-gray-35 - #4a5058
   late final Color blueGray35 = const Color.fromRGBO(74, 80, 88, 1.0);
 
+  /// blue-gray-37 - #4c5059
+  late final Color blueGray37 = const Color.fromRGBO(76, 80, 89, 1.0);
+
   /// blue-gray-40 - #555b64
   late final Color blueGray40 = const Color.fromRGBO(85, 91, 100, 1.0);
 
@@ -235,6 +238,9 @@ class ColorPrimitive {
 
   /// blue-gray-55 - #79848f
   late final Color blueGray55 = const Color.fromRGBO(121, 132, 143, 1.0);
+
+  /// blue-gray-57 - #7d848c
+  late final Color blueGray57 = const Color.fromRGBO(125, 132, 140, 1.0);
 
   /// blue-gray-60 - #8f98a6
   late final Color blueGray60 = const Color.fromRGBO(143, 152, 166, 1.0);

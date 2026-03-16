@@ -22,7 +22,7 @@ class OnSurface extends OnSurfaceBase {
   @override
   Color get main => ColorPrimitive.instance.white;
   @override
-  Color get mainFocused => ColorPrimitive.instance.neutralGray10;
+  Color get mainFocused => ColorPrimitive.instance.blueGray37;
   @override
   Color get mainSelected => ColorPrimitive.instance.white;
   @override
