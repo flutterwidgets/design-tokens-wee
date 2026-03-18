@@ -149,6 +149,9 @@ class ColorPrimitive {
   /// cool-gray-15 - #393a40
   late final Color coolGray15 = const Color.fromRGBO(57, 58, 64, 1.0);
 
+  /// cool-gray-17 - #373a41
+  late final Color coolGray17 = const Color.fromRGBO(55, 58, 65, 1.0);
+
   /// cool-gray-20 - #42444a
   late final Color coolGray20 = const Color.fromRGBO(66, 68, 74, 1.0);
 

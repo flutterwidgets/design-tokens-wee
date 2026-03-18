@@ -36,13 +36,13 @@ class Surface extends SurfaceBase {
   @override
   Color get defaultPlaceholder => ColorPrimitive.instance.coolGray10;
   @override
-  Color get defaultTrack => ColorPrimitive.instance.neutralGray40;
+  Color get defaultTrack => ColorPrimitive.instance.coolGray17;
   @override
   Color get defaultTranslucent => ColorPrimitive.instance.white;
   @override
   Color get subNotification => ColorPrimitive.instance.mintGreen50;
   @override
-  Color get accent => ColorPrimitive.instance.activeRed55;
+  Color get accent => ColorPrimitive.instance.neutralGray92;
   @override
   Color get highlight => ColorPrimitive.instance.mintGreen50;
   @override
